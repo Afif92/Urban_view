@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492279224 source:c:\users\afif\documents\urban_view\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glut.h>
+

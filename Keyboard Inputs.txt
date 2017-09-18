@@ -1,0 +1,46 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++
+++    
+++  'f' for fullscreen mode/Exit fullscreen 
+++
++++++++++++++++++++++++++++++++++++++++++++++++
+++
+++   'p' for stop 1st bus
+++   'P' for start 1st bus
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'o' for stop 2nd bus
+++   'O' for start 2nd bus
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'i' for stop 3rd car
+++   'I' for start 3rd car
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'u' for stop 4th car
+++   'U' for start 4th car
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'l' for stop 1st Robot
+++   'L' for start 1st Robot
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'k' for stop 2nd Robot
+++   'K' for start 2nd Robot
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'j' for stop 3rd Robot
+++   'J' for start 3rd Robot
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'h' for stop 4th Robot
+++   'H' for start 4th Robot
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'x' for make 4th car faster
+++   'X' for make 4th car normal
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'z' for make 1st bus faster
+++   'Z' for make 1st bus normal
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'd' for Day mode
+++   'n' for night mode
++++++++++++++++++++++++++++++++++++++++++++++++
+++   'up key' to go forward
+++   'down key' to go back
+++   'left key' to turn left
+++   'right key' to turn Right
++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++
